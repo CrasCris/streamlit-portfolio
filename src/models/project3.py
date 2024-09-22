@@ -1,5 +1,4 @@
 import streamlit as st
-import plotly.express as px
 
 def run():
     st.subheader("[Link al Repositorio](https://github.com/CrasCris/TechnicalTest/blob/master/Part1/MachineLearningSkills.ipynb)")

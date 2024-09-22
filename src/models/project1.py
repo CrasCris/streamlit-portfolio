@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 def run():
     st.subheader("[Link al Repositorio](https://github.com/CrasCris/Yolo-Nas-FineTuning)")
