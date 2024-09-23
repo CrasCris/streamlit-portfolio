@@ -13,7 +13,7 @@ def run():
     st.image("src/img/img1.png", caption="Detección de EPP's de un albañil")
 
     st.write("""
-    Se entrenada un modelo con las imagenes previamente etiquetadas (caso contrarío debes etiquetarlas con heramientas como
+    Se entrena un modelo con las imagenes previamente etiquetadas (caso contrarío debes etiquetarlas con heramientas como
              LabelStudio entre otras), para su puesta en producción se despliega como un micro servicio en contenedores docker o podman.
     """)
 
